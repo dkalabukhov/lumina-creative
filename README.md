@@ -1,1 +1,3 @@
-A simple website hosted on Netlify.
+# Lumina Creative
+
+Simple HTML/CSS website for a creative agency.
